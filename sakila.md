@@ -19,8 +19,8 @@ https://dev.mysql.com/doc/sakila/en/sakila-installation.html
 3. 进入mql命令行，执行下面的命令导入数据
 
 ```shell
-mysql> SOURCE C:/temp/sakila-db/sakila-schema.sql;
-mysql> SOURCE C:/temp/sakila-db/sakila-data.sql;
+mysql> SOURCE /root/sakila-db/sakila-schema.sql;
+mysql> SOURCE /root/sakila-db/sakila-data.sql;
 
 ```
 
